@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related docker APIs 878"
+  message: "Welcome to EazyBank accounts related docker APIs 8789"
   contactDetails:
     name: "Manish Mourya - Developer"
     email: "{cipher}279c2b28abf5a1257c6f59527efce8a03323e0cd25440b6407b798059047d04ccf88370daea8e8b5207041b2e722567c"
