@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related docker APIs "
   contactDetails:
-    name: "Manish Mourya - Developer"
+    name: "Manish Mourya - Developer 2"
     email: "{cipher}279c2b28abf5a1257c6f59527efce8a03323e0cd25440b6407b798059047d04ccf88370daea8e8b5207041b2e722567c"
   onCallSupport:
     - (555) 555-1234
